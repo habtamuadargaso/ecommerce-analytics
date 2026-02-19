@@ -1,5 +1,5 @@
 
-# 📊 E-Commerce Customer Analytics Project
+# 📊 E-Commerce Customer Segmentation & Revenue Analytics
 
 ## 🧭 Project Overview
 
